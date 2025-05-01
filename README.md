@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emrecan Turgul</h1>
 <h3 align="center">A passionate Backend Developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emrecanturgul&label=Profile%20views&color=0e75b6&style=flat" alt="emrecanturgul" /> </p>
 
 - 📫 How to reach me **emrecanturgul@gmail.com**
 
@@ -15,4 +14,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emrecanturgul&show_icons=true&locale=en&layout=compact" alt="emrecanturgul" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emrecanturgul&show_icons=true&locale=en" alt="emrecanturgul" /></p>
