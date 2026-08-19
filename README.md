@@ -17,14 +17,15 @@ testable and actually ships.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+<!--
 ### Projects
 
-<!-- Proje bitince şu satırı doldur, formatı bozma:
+Proje bitince şu satırı doldur, formatı bozma:
 - **[Proje Adı](repo linki)** — bir cümle açıklama · [Live](canlı link)
--->
-_Coming soon — currently building._
 
+
+_Coming soon — currently building._
+-->
 ### Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emrecanturgul/)
