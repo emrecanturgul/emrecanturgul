@@ -1,16 +1,26 @@
-## Hi there 👋
+## Emrecan Turgul
 
-<!--
-**emrecanturgul/emrecanturgul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer working mainly with C# and ASP.NET Core. I build Web APIs,
+handle the data side with EF Core and SQL Server, and move to Angular when a
+project needs a frontend. Lately I care less about "code that runs" and more
+about applications that are well-structured, testable and actually deployable —
+layered architecture, authentication, containerization.
 
-Here are some ideas to get you started:
+**Tech:** C# · ASP.NET Core · Entity Framework Core · SQL Server · Angular · TypeScript · Docker · Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+### Projects
+
+<!-- Her proje bitince şu formatta bir satır ekle, metni değiştirmene gerek yok:
+- **[Proje Adı](repo linki)** — bir cümle açıklama. [Live](canlı link)
 -->
+
+_Coming soon — currently building._
+
+---
+
+### Contact
+
+- LinkedIn — https://www.linkedin.com/in/emrecan-turgul-b63421407/
+- Email — emrecanturgul@gmail.com
