@@ -32,4 +32,4 @@ _Coming soon — currently building._
 
 ---
 
-![Emrecan's GitHub stats](https://github-readme-stats.vercel.app/api?username=emrecanturgul&show_icons=true&hide_border=true&theme=transparent)
+
